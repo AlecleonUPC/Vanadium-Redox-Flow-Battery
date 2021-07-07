@@ -1,8 +1,8 @@
-## What is a Redox flow battery
+## Redox Flow Battery
 
-You can use the [editor on GitHub](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A redox flow battery is an electrochemical cell where chemical energy is provided by two chemical components dissolved in liquids that are pumped through the system on separate sides of a membrane. Ion exchange occurs through the membrane while both liquids circulate in their own respective space.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More information about what a redox flow battery is, and the work carried out in the IRI can be found in the following webpage [IRI Work](https://sites.google.com/view/flowbat2021iri/pti-flowbat-iri?authuser=0).
 
 ### Model of a Redox Flow Battery
 
