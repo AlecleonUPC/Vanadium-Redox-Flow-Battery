@@ -18,7 +18,7 @@ The model is divided in the following parts:
 - Bulleted
 - List
 
-![Cell](IRI_Redox_Flow_Battery/Model/Model_15_12/Cell.JPG)
+![Cell](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/blob/master/Model/Model_15_12/Cell.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
