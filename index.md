@@ -2,7 +2,7 @@
 
 A redox flow battery is an electrochemical cell where chemical energy is provided by two chemical components dissolved in liquids that are pumped through the system on separate sides of a membrane. Ion exchange occurs through the membrane while both liquids circulate in their own respective space.
 
-More information about what a redox flow battery is, and the work carried out in the IRI can be found in the following webpage [IRI Work](https://sites.google.com/view/flowbat2021iri/pti-flowbat-iri?authuser=0).
+More information about what a redox flow battery is, and the work carried out in the IRI can be found in the following webpage [IRI Work](https://sites.google.com/view/flowbat2021iri/pti-flowbat-iri?authuser=0)
 
 ### Model of a Redox Flow Battery
 
