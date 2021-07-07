@@ -1,29 +1,24 @@
-## HELLLOOOOO to GitHub Pages
+## What is a Redox flow battery
 
 You can use the [editor on GitHub](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Model of a Redox Flow Battery
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for esto y esto
+Here is presented the model that we have develop in MATLAB in order to analyze and validate the behaviour of a redox flow batteries system. 
 
 ```markdown
-Syntax highlighted code block
+The model is divided in the following parts:
 
-# Who we are BLA BLA BLA
-## Header 2
-### Header 3
+# Electrochemical model
+# Thermal model
+# Hydarulic model
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](IRI_Redox_Flow_Battery/Model/Model_15_12/Cell.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
