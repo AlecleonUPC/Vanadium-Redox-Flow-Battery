@@ -19,6 +19,7 @@ The model is divided in the following parts:
 - List
 
 ![Cell](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/blob/master/Model/Model_15_12/Cell.JPG)
+![alt text](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/blob/master/Model/Model_15_12/Anolyte_Tank.JPG)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
