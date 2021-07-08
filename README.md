@@ -3,7 +3,6 @@ Redox flow battery project within the doctoral thesis developed at the Institute
 
 This page has been created to give visibility to the work developed in the IRI in terms of modeling and control of a redox flow batteries. Here is presented the model that is being developed in Matlab and that allows us to analyze the operation of a redox flow battery.
 
-![RFB scheme](https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG)
 <p align="center">
   <img width="460" height="300" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG">
 </p>
