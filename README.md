@@ -19,6 +19,12 @@ There are four different folders:
 It is important to notice, that in order to perform the Model or Calibration with real data, it is need to have these files in the same Matlab folder.
 
 ## Model
+The Model folder contains the files need to perform a Simulation of the complete system. In this way, it is possible to simulate the evolution of the different concentrations, voltage, temperature and hydraulic losses selecting the current (positive during the charging and negative during the discharging), the flow rates and the air temperature.
+<p align="center">
+  <img width="460" height="300" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG">
+</p>
+
+
 
 ## Calibration
 
