@@ -6,8 +6,7 @@ This page has been created to give visibility to the work developed in the IRI i
 # What contains this project
 This project presents the folders that are contained in this project, and how to use the different files in case that anyone wants to simulate his particular redox flow battery system, or determine some of the parameters that can not been easily measured, with real data by means of a calibration algorithm that is presented.
 
-![alt text](https://github.com/AlecleonUPC/IRI_Redox_Flow_Battery/blob/master/Model/Model_15_12/Anolyte_Tank.JPG)
-
+![alt text](https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG)
 
 # Modeling
 
