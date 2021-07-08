@@ -28,11 +28,14 @@ The "CompleteModel.slx" and "CompleteModelv16a.slx" files contain the complete S
 
 This model, has been separated in different parts which consists on the following ones:
 
-- Electrochemical model: 
+- Electrochemical model: determines the evolution of the different species concentration in the cells and tanks parts of the system. It considers the current and electrolyte flow rates and also the diffusion through the membrane, whose impact it is seen in the long term
 <p align="center">
-  <img width="700" height="300" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/CompleteModel.JPG">
+  <img width="750" height="350" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/ElectrochemicalModel.JPG">
 </p>
 - Voltage and overpotentials model:
+<p align="center">
+  <img width="750" height="350" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/Voltage.png">
+</p>
 - Hydrualic model:
 - Temperature model:
 - Indicators
