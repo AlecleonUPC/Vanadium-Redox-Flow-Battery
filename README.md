@@ -4,7 +4,7 @@ Redox flow battery project within the doctoral thesis developed at the Institute
 This page has been created to give visibility to the work developed in the IRI in terms of modeling and control of a redox flow batteries. Here is presented the model that is being developed in Matlab and that allows us to analyze the operation of a redox flow battery.
 
 <p align="center">
-  <img src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG">
+  <img width="400" height="250" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/RFB_Scheme.JPG">
 </p>
 
 # What contains this project
@@ -20,9 +20,22 @@ It is important to notice, that in order to perform the Model or Calibration wit
 
 ## Model
 The Model folder contains the files need to perform a Simulation of the complete system. In this way, it is possible to simulate the evolution of the different concentrations, voltage, temperature and hydraulic losses selecting the current (positive during the charging and negative during the discharging), the flow rates and the air temperature.
+
+The "CompleteModel.slx" and "CompleteModelv16a.slx" files contain the complete Simulink model
 <p align="center">
-  <img src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/CompleteModel.JPG">
+  <img width="700" height="300" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/CompleteModel.JPG">
 </p>
+
+This model, has been separated in different parts which consists on the following ones:
+
+- Electrochemical model: 
+<p align="center">
+  <img width="700" height="300" src="https://github.com/AlecleonUPC/IRI-Redox-Flow-Battery/blob/master/Project_GITHUB/Figures/CompleteModel.JPG">
+</p>
+- Voltage and overpotentials model:
+- Hydrualic model:
+- Temperature model:
+- Indicators
 
 
 
