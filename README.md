@@ -85,7 +85,8 @@ This calibration has been performed using a PSO optimization, which determines t
   - [1] Clemente, A., Cecilia, A., Costa-Castelló, R.: SOC and diffusion rates estimation in redox flow batteries: An II-based high-gain observer approach. European Control Conference.
   - [2] Clemente, A., Costa-Castelló, R.: Flow controlling tuning for the voltage of a redox flow battery considering the effect of overpotentials. ETFA 2021 - 26th Annual Conference of the IEEE Industrial Electronics Society (IES).
   - [3] Clemente, A., Montiel, M., Barreras, F., Lozano, A., Costa-Castelló, R.: Vanadium Redox Flow Battery State of Charge Estimation Using a Concentration Model and a Sliding Mode Observer. IEEE ACCESS, 9, 72368–72376. [DOI](https://ieeexplore.ieee.org/document/9427541/)
- 
+  - [4] BA BE BI
+  
 - 2020
   - [1] Clemente, A., Ramos, A., Costa-Castelló, R. Voltage H∞ control of a vanadium redox flow battery. Electronics, 9(10): 1567. [DOI](https://doi.org/10.3390/electronics9101567)
   - [2] Clemente, A., Costa-Castelló, R. Redox flow batteries: A literature review oriented to automatic control. Energies, 13(17): 4514. [DOI](https://doi.org/10.3390/en13174514)
