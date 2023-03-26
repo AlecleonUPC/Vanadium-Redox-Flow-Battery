@@ -1,5 +1,5 @@
 # Redox Flow Battery
-Redox flow battery project within the doctoral thesis developed at the Institute of Robotics and Informatics (IRI) [IRI Project](https://https://www.iri.upc.edu).
+Redox flow battery project within the doctoral thesis developed at the Institute of Robotics and Informatics (IRI) [IRI Project](https://www.iri.upc.edu).
 
 This page has been created to give visibility to the work developed in the IRI in terms of modeling and control of a redox flow batteries. Here is presented the model that is being developed in Matlab and that allows us to analyze the operation of a redox flow battery.
 
