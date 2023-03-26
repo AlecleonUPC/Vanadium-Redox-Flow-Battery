@@ -1,5 +1,5 @@
 # Redox Flow Battery
-Redox flow battery project within the doctoral thesis developed at the Institute of Robotics and Informatics (IRI) [IRI Project](https://sites.google.com/view/flowbat2021iri/pti-flowbat-iri?authuser=0).
+Redox flow battery project within the doctoral thesis developed at the Institute of Robotics and Informatics (IRI) [IRI Project](https://https://www.iri.upc.edu).
 
 This page has been created to give visibility to the work developed in the IRI in terms of modeling and control of a redox flow batteries. Here is presented the model that is being developed in Matlab and that allows us to analyze the operation of a redox flow battery.
 
@@ -85,7 +85,6 @@ This calibration has been performed using a PSO optimization, which determines t
   - [1] Clemente, A., Cecilia, A., Costa-Castelló, R.: SOC and diffusion rates estimation in redox flow batteries: An II-based high-gain observer approach. European Control Conference.
   - [2] Clemente, A., Costa-Castelló, R.: Flow controlling tuning for the voltage of a redox flow battery considering the effect of overpotentials. ETFA 2021 - 26th Annual Conference of the IEEE Industrial Electronics Society (IES).
   - [3] Clemente, A., Montiel, M., Barreras, F., Lozano, A., Costa-Castelló, R.: Vanadium Redox Flow Battery State of Charge Estimation Using a Concentration Model and a Sliding Mode Observer. IEEE ACCESS, 9, 72368–72376. [DOI](https://ieeexplore.ieee.org/document/9427541/)
-  - [4] BA BE BI
   
 - 2020
   - [1] Clemente, A., Ramos, A., Costa-Castelló, R. Voltage H∞ control of a vanadium redox flow battery. Electronics, 9(10): 1567. [DOI](https://doi.org/10.3390/electronics9101567)
